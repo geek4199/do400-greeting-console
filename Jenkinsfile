@@ -29,6 +29,6 @@ oc project sgtxek-greetings
 oc start-build greeting-console --follow --wait
 '''
 }
-}
+ }
     }
 }
